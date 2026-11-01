@@ -21,6 +21,7 @@ project:
     - title: 媒体
       children:
         - file: create/food.md
+        - file: media/rednote.md
     - title: 工作
       children:
         - file: work/export-icloud-photo.md

@@ -12,6 +12,8 @@
 
 ### 新增
 
+- `media/rednote.md`：小红书与抖音双平台发布——Playwright 复制 Firefox profile 继承登录态，封面叠字、草稿箱恢复与五个踩坑点，附验收标准；`media/` 目录首篇
+
 - `product/from-qtfounder-to-qtcloud.md`：qtfounder 给 qtcloud 探路——两仓并列、成果单向分岔，附三类不稳定、毕业标准与落位三问；新增 `product/` 目录（产品域）
 
 - `human/training/product-operations.md`：产品运营培养方案——从用户体验观察入手，用 Issue 与 PR 记录成长路径；新增 `human/` 目录（人力资源域）
