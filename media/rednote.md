@@ -28,7 +28,7 @@ cp -r ~/snap/firefox/common/.mozilla/firefox/<profile> /tmp/pw-profile/ff
 
 1. 封面叠字：用 Pillow 在封面图上叠三层文字——顶部品牌名、中部主标、底部副标，米黄字加深色描边；主标字号按最长一行试算，超宽会裁出画外。
 2. 小红书：`creator.xiaohongshu.com/publish/publish` → 切「上传图文」→ 传图 → 填标题正文 → 正文末尾逐个 `#话题` 并点选下拉项 → 点底部「发布」。
-3. 抖音：`creator.douyin.com/creator-micro/content/upload` → 切「发布图文」→ 传图 → 填标题描述话题 → 点「发布」→ 过短信验证。
+3. 抖音：`creator.douyin.com/creator-micro/content/upload` → 切「发布图文」→ 传图 → 填标题描述话题 → 点「发布」→ 过短信验证。抖音侧的差异点与验证交接细节见[抖音图文发布](douyin.md)。
 4. 发布后以 URL 带 `published=true` 为成功凭证；小红书也可去笔记管理页复核。
 
 ## 踩过的坑
