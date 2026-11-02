@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### 删除
+
+- `meta/` 整节（归位案例九篇）随 qtfounder `meta` 子命令淘汰而下线；已确认的标准属性与唯一确认公理已迁入元工程案例集（quanttide-gallery-of-meta-engineering `metaphysics/category/properties.md`），未确认内容留痕在本仓 git 历史；站点目录与首页清单同步
+
 ### 新增
 
 - `media/rednote.md`：小红书与抖音双平台发布——Playwright 复制 Firefox profile 继承登录态，封面叠字、草稿箱恢复与五个踩坑点，附验收标准；`media/` 目录首篇
