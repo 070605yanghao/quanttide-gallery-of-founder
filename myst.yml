@@ -40,19 +40,6 @@ project:
     - title: 语言
       children:
         - file: language/context.md
-    - title: 归位
-      children:
-        - file: meta/index.md
-        - file: meta/axioms.md
-        - file: meta/property.md
-        - file: meta/category.md
-        - file: meta/model/index.md
-        - file: meta/model/contract.md
-        - file: meta/model/rule.md
-        - file: meta/model/criterion.md
-        - file: meta/relation.md
-        - file: meta/home.md
-        - file: meta/paradigm.md
     - title: 域
       children:
         - file: domain/human-vs-org.md
